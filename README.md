@@ -1,2 +1,2 @@
-# repositor-de-moedas
-Repositor de Moedas 
+# conversor-de-moedas
+Conversor de Moedas 
